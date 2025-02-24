@@ -1,0 +1,710 @@
+{
+    "main": {
+        "name": "Paolo",
+        "surname": "Leoni",
+        "occupation": "AI/ML Engineer, Custom Software Engineering Specialist, Technology Architect, Consultant, Blockchain developer",
+        "occupationTarget": "Senior Technology Architect and Subject-Matter Expert",
+        "description": "AI/ML Revolution Fan 🤖| \"Load\" CM Founder, Designer & Developer 💡| Full Stack 💻| People Developer 🤼| Senior Analyst @Accenture 🔍| Technology Cloud Architect ☁️ | DevOps skills enthusiast 👨🏽‍💻| Agile SCRUM Developer♻️ | Blockchain Specialist 🔗 | Soustainability by technology Ambassador EUDR🌲",
+        "image": "images/profilepic.jpg",
+        "bio": "Passionate about Architecture, Security, UI/UX, and the ever-evolving world of technology. Embracing the <code>#LifeLongLearning</code> mindset, I specialize in Web, Cloud, and scripting applications, following a DevOps & Full Stack approach. Deeply engaged in Blockchain, AI, and Machine Learning, I integrate architectural vision with cutting-edge innovation",
+		"big-bio":"My name is Paolo, born in '88, and since 2018, I've been part of the dynamic world of Accenture. Throughout my career, I've immersed myself in a plethora of projects, languages, architectures, and roles, each shaping me into the versatile and forward-thinking innovator I am today. My journey in tech has not only been about adapting and learning; it's been a process of constant innovation and redefinition of what's possible. An essential daily habit that has been crucial to my success is my walking meditation. Every day, without fail, this practice helps me maintain calmness and focus, allowing me to approach challenges with clarity and innovate with intention. It's in these moments of tranquility that I find my greatest inspirations and the strength to keep pushing the boundaries of technology. My most precious childhood memory is of visiting the animals with my grandmother during vacations. Those moments, filled with dedication, effort, and love towards the creatures that depended so much on us, taught me valuable lessons early on. Experiencing the responsibility as a playful adventure instilled in me a profound respect for life and nature, values that I carry with me in everything I do. There's a place that I consider my 'second home'—a small balcony in an inaccessible house in a hamlet in the Val Maira. This secluded spot is where I find peace, inspiration, and a sense of timelessness that rejuvenates my soul. Here, I reconnect with myself, drawing inspiration from the serene landscape to fuel my passion for innovation and creativity. In my role at Accenture, I bring this blend of calm determination, inspired innovation, and deep-rooted values to every project I tackle. I am constantly on the lookout for the next challenge, ready to leverage my experiences and insights to make a meaningful impact in the tech world.",
+        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+        "email": "paololeoni88@gmail.com",
+        "phone": "",
+        "address": {
+            "street": "",
+            "city": "Torino",
+            "state": "Italy",
+            "zip": "10100"
+        },
+		"fomraladdress": {
+            "street": "Via Galilei",
+            "city": "Giulianova",
+            "state": "Italy",
+            "zip": "64021"
+        },
+        "website": "https://www.paololeoni.it",
+        "resumedownload": "blob/CV_Leoni.short.eng.pdf",
+        "resumegenerate": false,
+        "cv": {
+            "cvNameSurname": "PAOLO LEONI",
+            "cvAddress": "VIA G. GALILEI, 425/A GIULIANOVA (TE)",
+            "cvPhone": "347448142(3)",
+            "cvMail": "paololeoni88@gmail.com",
+            "cvDatePlaceOfBirth": "01th May 1988, in Moncalieri (TO)",
+            "cvPersonalStatement": "I am a result-driven, motivated, and versatile developer with a proven ability to work with Agile and DevOps framework; and I follow the full-stack approach. I keep studying and learning to enhance my Architectural skills with a strong focus on the Cloud environment. Seeking to combine learning growth and work experience in a challenging role. Available to relocate & Available to travel."
+        },
+        "social-bck": [
+            {
+                "name": "e-mail",
+                "url": "mailto:#",
+                "className": "fa fa-envelope"
+            },
+            {
+                "name": "facebook",
+                "url": "https://www.facebook.com/L3ONI/",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "twitter",
+                "url": "https://twitter.com/unil3o",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/paoleon/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/paulusedleo/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/paoleon",
+                "className": "fa fa-github"
+            }
+        ],
+        "social": [
+            {
+                "name": "e-mail",
+                "url": "mailto:info@paololeoni.it",
+                "className": "fa fa-envelope"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/paoleon/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/paulusedleo/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/paololeoniacn",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "whatido": {
+        "header": "CLOUD, SECURITY & PROJECT MANAGEMENT: MY EXPERTISE",
+        "h2": "BUT CODE WILL ALWAYS BE PART OF THE JOURNEY!",
+        "loghi": [
+            {
+                "name": "Python",
+                "iconName": "python",
+                "iconPrefix": "fab"
+            },
+			{
+                "name": "GenAI",
+                "iconName": "brain",
+                "iconPrefix": "fas"
+            },
+            {
+                "name": "HTML",
+                "iconName": "html5",
+                "iconPrefix": "fab"
+            },
+			{
+                "name": "CSS",
+                "iconName": "css3",
+                "iconPrefix": "fab"
+            },
+			{
+                "name": "Java",
+                "iconName": "java",
+                "iconPrefix": "fab"
+            },
+            {
+                "name": "Spring.io",
+                "iconName": "leaf",
+                "iconPrefix": "fas"
+            },
+            {
+                "name": "AWS",
+                "iconName": "aws",
+                "iconPrefix": "fab"
+            },
+            {
+                "name": "Microsoft",
+                "iconName": "microsoft",
+                "iconPrefix": "fab"
+            },
+            {
+                "name": "Docker",
+                "iconName": "docker",
+                "iconPrefix": "fab"
+            },
+            {
+                "name": "Linux",
+                "iconName": "linux",
+                "iconPrefix": "fab"
+            },
+            {
+                "name": "Network",
+                "iconName": "network-wired",
+                "iconPrefix": "fas"
+            },
+            {
+                "name": "Git",
+                "iconName": "github",
+                "iconPrefix": "fab"
+            },
+            {
+                "name": "React",
+                "iconName": "react",
+                "iconPrefix": "fab"
+            },
+            {
+                "name": "Blockchain",
+                "iconName": "bitcoin",
+                "iconPrefix": "fab"
+            }
+        ],
+        "lightningPhrases-old": [
+            {
+                "text": "Create High Available on-cloud architectures.",
+                "label": "build",
+                "symbol": "🔧"
+            },
+            {
+                "text": "Develop small CRMs and Enterprise Energy Management Application.",
+                "label": "spark",
+                "symbol": "✨"
+            },
+            {
+                "text": "Organize projects and resources using Agile Framework.",
+                "label": "agile",
+                "symbol": "♻️"
+            }
+        ],
+        "lightningPhrases": [
+            {
+                "text": "AI-first mindset: automation, intelligence, and augmentation at the core.",
+                "label": "",
+                "symbol": "🤖"
+            },
+            {
+                "text": "Custom code over shortcuts: precision, performance, and full control.",
+                "label": "",
+                "symbol": "💻"
+            },
+            {
+                "text": "Building sustainable futures through intelligent technology.",
+                "label": "",
+                "symbol": "🌱"
+            },
+            {
+                "text": "Digitalization and datafication as the backbone of modern architectures.",
+                "label": "",
+                "symbol": "📊"
+            },
+            {
+                "text": "Tech should be transparent, accountable, and governed with purpose.",
+                "label": "",
+                "symbol": "🔍"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage-old": "A passionate Full Stack Software Developer having an experience with building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks",
+        "education": [
+            {
+                "school": "University of L'Aquila, Italy",
+                "degree": "Degree in Computer Science",
+                "graduated": "2016",
+                "score":"100/110",
+                "description": "Laurea in INFORMATICA (L-31 - Classe delle lauree in Scienze e tecnologie informatiche - D.M. 270/2004) in data 19/03/2016. Ai sensi dell'art. 13 comma 7 del D.M. 270/2004, compete la qualifica accademica di Dottore in INFORMATICA.",
+                "link": "",
+                "logo": "https://upload.wikimedia.org/wikipedia/it/2/2b/Logo_Universit%C3%A0_degli_Studi_dell%27Aquila.gif",
+                "className": "education-roundedimg"
+            },
+            {
+                "school": "Master Technology Architect (Fundamentals)",
+                "degree": "Qualification Certificate",
+                "graduated": "2021",
+                "description": "It signifies the understanding of Architecture terminology, approach, methodology, frameworks, tools and ways of working, and thus the ability to successfully operate in an Architecture team.",
+                "link": "",
+                "logo": "/io/images/Certifications/MTA-Cube-423x420-Transparent.png",
+                "className": "education-roundedimg"
+            },
+            {
+                "school": "Master BLOCKCHAIN Technology & Management",
+                "degree": "Qualification Certificate stored on Ethereum Blockchain system and authenticated via NFT",
+                "graduated": "2021",
+                "description": "Understand and manage blockchain technology this technology in the of corporate and institutional processes",
+                "link": "https://www.theblockchainmanagementschool.it/",
+                "logo": "/io/images/logo/the-blockchain-management-school-logo.png",
+                "className": "education-roundedimg"
+            }
+        ],
+        "work": [
+            {
+                "company": "University of L'Aquila, Italy",
+                "title": "ROS developer - Parrot Drone surface check project",
+                "years": "2014",
+                "description": "Lead and manage development teams for critical projects, including the EUDR Regulation Compliance project, ensuring timely and quality delivery.\n\nDeploy custom blockchain networks with Hyperledger Besu, develop Solidity smart contracts for NFT management, and create backend services in Node.js and Quarkus for blockchain and data interactions.\n\nDevelop user interfaces with React and Next.js, integrating seamlessly with enterprise systems (SAP, TIBCO) and AWS for secure and efficient data handling.\n\nResponsible for DevOps practices, using Docker, Docker Compose, and Kubernetes for container management and orchestration, and managing CI/CD pipelines with Bamboo.\n\nOversee AWS environment configurations (IAM, EC2, EKS) to optimize cloud-native applications, while applying cryptographic techniques for security and data integrity.\n\nCollaborate with business departments and clients to define requirements, design solutions, and implement Agile methodologies as a *certified* Scrum Developer.\n\nDocument processes, release notes, and technical guides in Confluence for knowledge sharing and continuity.",
+				"logo": "https://upload.wikimedia.org/wikipedia/it/2/2b/Logo_Universit%C3%A0_degli_Studi_dell%27Aquila.gif",
+                "className": "education-roundedimg"
+            },
+            {
+                "company": "University of L'Aquila, Italy",
+                "title": "Consultant in computer forensics.",
+                "years": "2014",
+                "description": "Cryptanalysis, investigation, installing security systems consultancy. Help in technology transition.",
+                "logo": "https://upload.wikimedia.org/wikipedia/it/2/2b/Logo_Universit%C3%A0_degli_Studi_dell%27Aquila.gif",
+                "className": "education-roundedimg"
+            },
+            {
+                "company": "Accenture",
+                "title": "Blockchain Engineer & DevOps Specialist",
+                "years": "March 2023 – Ongoing",
+                "description": "Deployed custom blockchain networks, developed Solidity smart contracts, implemented backend services in Node.js and Java, and managed Kubernetes infrastructure.",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Accenture.svg/200px-Accenture.svg.png",
+                "className": "work-roundedimg",
+                "companyFullName": "ACCENTURE TECHNOLOGY SOLUTIONS S.R.L.",
+                "numberEmployees": "1001-5000",
+                "industry": "ICT & Telco",
+                "sub-industry": "ISV & Software House"
+            },
+            {
+                "company": "Accenture",
+                "title": "Software Architect and Team Lead",
+                "years": "February 2024 – Ongoing",
+                "description": "Supervised a team for EUDR compliance, developing cloud-native web applications, integrating with SAP and AWS services, and applying DevOps best practices.",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Accenture.svg/200px-Accenture.svg.png",
+                "className": "work-roundedimg",
+                "companyFullName": "ACCENTURE TECHNOLOGY SOLUTIONS S.R.L.",
+                "numberEmployees": "1001-5000",
+                "industry": "ICT & Telco",
+                "sub-industry": "ISV & Software House"
+            },
+            {
+                "company": "Accenture",
+                "title": "DevOps & Observability Specialist (Active Monitoring with InfluxDB)",
+                "years": "March 2024 – April 2024",
+                "description": "Architected a monitoring system using InfluxDB, integrating Python-based analytics toolchains, Docker, and Kubernetes for observability and performance tracking.",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Accenture.svg/200px-Accenture.svg.png",
+                "className": "work-roundedimg",
+                "companyFullName": "ACCENTURE TECHNOLOGY SOLUTIONS S.R.L.",
+                "numberEmployees": "1001-5000",
+                "industry": "ICT & Product",
+                "sub-industry": "ISV & Software House"
+            },
+            {
+                "company": "Accenture",
+                "title": "AI/ML Engineer (LLM and Generative AI)",
+                "years": "March 2024 – Present",
+                "description": "Research and implementation of LLMs using TensorFlow, PyTorch, and GGUF quantization. Development of RAG-based AI solutions and integration with enterprise systems.",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Accenture.svg/200px-Accenture.svg.png",
+                "className": "work-roundedimg",
+                "companyFullName": "ACCENTURE TECHNOLOGY SOLUTIONS S.R.L.",
+                "numberEmployees": "1001-5000",
+                "industry": "AI/ML",
+                "sub-industry": "ISV & Software House"
+            },
+            {
+                "company": "Accenture",
+                "title": "Cloud Solutions Architect (Data Orchestration for EUDR Compliance)",
+                "years": "Jan 2025 – Ongoing",
+                "description": "Designed and implemented a cloud-native data orchestration framework interacting with TRACEMARK for EUDR compliance, overseeing end-to-end delivery, integrating with SAP and AWS S3, and leveraging AWS services for secure data processing.",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Accenture.svg/200px-Accenture.svg.png",
+                "className": "work-roundedimg",
+                "companyFullName": "ACCENTURE TECHNOLOGY SOLUTIONS S.R.L.",
+                "numberEmployees": "1001-5000",
+                "industry": "ICT & Product",
+                "sub-industry": "ISV & Software House"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Passion 🚀",
+                "level": "400%"
+            },
+            {
+                "name": "Full Stack Software Developer",
+                "level": "100%"
+            },
+            {
+                "name": "Web and Mobile applications",
+                "level": "100%"
+            },
+            {
+                "name": "JavaScript",
+                "level": "100%"
+            },
+            {
+                "name": "bash/shell/scripting",
+                "level": "100%"
+            },
+            {
+                "name": "NodeJs",
+                "level": "80%"
+            },
+			{
+                "name": "GenAI",
+                "level": "80%"
+            },
+            {
+                "name": "React",
+                "level": "70%"
+            },
+            {
+                "name": "AWS Cloud",
+                "level": "60%"
+            },
+            {
+                "name": "Technology Architect",
+                "level": "60%"
+            },
+            {
+                "name": "Blockchain Management",
+                "level": "50%"
+            },
+            {
+                "name": "Azure Cloud",
+                "level": "30%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Canadian Wanderlust",
+                "category": "a PHP and MySql project. Real My Travel Blog for my post-university travels",
+                "image": "/images/portfolio/project.jpg",
+                "url": ""
+            },
+            {
+                "title": "SACCO med res",
+                "category": "(offline now) a PHP and MySql project for my university gaduation exam.",
+                "image": "/images/portfolio/project.jpg",
+                "url": ""
+            },
+            {
+                "title": "Filigrano Landing page",
+                "category": "(outdated) a one page product to promote the Filigrano Tartellette!",
+                "image": "/images/portfolio/project.jpg",
+                "url": ""
+            },
+            {
+                "title": "Resume Website",
+                "category": "A React based resume website template",
+                "image": "/images/portfolio/resume-website.jpg",
+                "url": "http://www.paololeoni.eu/io"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [
+            {
+                "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+                "user": "Kareem Abdul Jabbar"
+            },
+            {
+                "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+                "user": "Steve Wozniak... impersonator"
+            }
+        ]
+    },
+    "experiences": {
+        "experiences": [
+            {
+                "title": "Kubernetes",
+                "logo": "/images/Experiences/Kubernetes_logo.png",
+                "role": "Technology Architect",
+                "fromTo": "Feb 2020 - Now",
+                "place": "Rome",
+                "description": "Architect & Develop hands-on projects, PoC, Application Maintenance"
+            },
+			{
+                "title": "Blockchain",
+                "logo": "/images/Experiences/Besu-logo.svg",
+                "role": "Technology Architect",
+                "fromTo": "Feb 2023 - Now",
+                "place": "Remote",
+                "description": "Architect & Develop hands-on projects, PoC, Application Maintenance"
+            },
+			{
+                "title": "Gen Ai",
+                "logo": "/images/Experiences/ChatGPT-Logo.png",
+                "role": "Technology Architect",
+                "fromTo": "Mar 2022 - Now",
+                "place": "Remote",
+                "description": "Accenture University, Udemy, hands-on project."
+            },
+            {
+                "title": "React",
+                "logo": "/images/Experiences/React_Native_Logo.png",
+                "role": "Technology Architect",
+                "fromTo": "Jan 2020 - Now",
+                "place": "Rome",
+                "description": "Architect & Develop hands-on projects, PoC, Application Maintenance"
+            },
+            {
+                "title": "Docker",
+                "logo": "/images/Experiences/docker-logo.png",
+                "role": "Technology Architect",
+                "fromTo": "Nov 2019 - Now",
+                "place": "Rome",
+                "description": "Architect & Develop hands-on project, PoC, Application Maintenance"
+            },
+            {
+                "title": ".NET",
+                "logo": "/images/Experiences/NET_Logo.png",
+                "role": "Technology Architect",
+                "fromTo": "Jun 2019 - Jan 2020",
+                "place": "Rome",
+                "description": "Accenture University, Udemy, hands-on project."
+            },
+            {
+                "title": "Python",
+                "logo": "/images/Experiences/Python-logo-notext.png",
+                "role": "Technology Architect",
+                "fromTo": "Feb 2018 - Now",
+                "place": "Rome",
+                "description": "Architect & Develop hands-on projects, PoC, Application Maintenance"
+            }
+        ],
+        "shadowed":[
+            {
+                "title": "Digital forensics certificate",
+                "logo": "",
+                "role": "Digital Forensics",
+                "fromTo": "2014",
+                "place": "Università degli Studi dell'Aquila",
+                "description": "@antonio mauro"
+            },
+            {
+                "title": "Mobile application developer",
+                "logo": "",
+                "role": "Mobile application developer",
+                "fromTo": "2013",
+                "place": "Università degli Studi dell'Aquila",
+                "description": ""
+            },
+            {
+                "title": "Docenza @Garanzia_Giovani",
+                "logo": "",
+                "role": "Docente",
+                "fromTo": "mar 2016 – giu 2016",
+                "place": "Efor s.r.l., Roseto degli Abruzzi",
+                "description": "Docenza per figura professionale \"Archivista Digitale\" in progetto Garanzia Giovani. Corso strutturato in 100 ore di teoria e 200 di stage in azienda"
+            },
+            {
+                "title": "MLT Srl",
+                "logo": "",
+                "role": "Socio fondatore",
+                "fromTo": "gen 2014 – ago 2016",
+                "place": "Giulianova",
+                "description": "Socio fondatore | Attività di divulgazione sportiva sul calcio dilettantistico locale | Implementazione portale abruzzosullarete.it"
+            },
+            {
+                "title": "Solution CRM",
+                "logo": "",
+                "role": "Sviluppatore di software gestionale web oriented, modulare integrato con sistemi esterni, in PHP",
+                "fromTo": "nov 2015 – mar 2017",
+                "place": "Ecoservizigroup Srl - Giulianova",
+                "description": "Progettazione e Sviluppo software gestionale web-oriented per consentire l'accesso e l'inserimento a dati di natura anagrafica, storico corsi, visite mediche nell'ambito della sicurezza sul posto di lavoro. Il software integrabile con sistemi esterni è realizzato con struttura modulare e permette relazioni statistiche per pianificare e prevedere azioni future."
+            },
+            {
+                "title": "Tirocinio Tecnocall",
+                "logo": "",
+                "role": "Sviluppatore applicazioni Web in PHP",
+                "fromTo": "nov 2016 – mag 2017",
+                "place": "Tecnocall srl - Pescara",
+                "description": "Sviluppo portale web per servizi alle aziende nel ramo alberghiero, moduli per gestionale interno in YII2, applicativi di interrogazione e controllo sistemi Asterisk per centralini."
+            }
+        ]
+    },
+	"bazzWord" : {
+		"senior developer" : {
+			"definition":"This figure creates the application components (programs) and the necessary data structures as defined by the technical specifications. He/she carries out unit tests of the modules developed and deals with aspects related to deployment/release management in production. He/she collaborates with the project team in preparing the systems and performance tests and he supports the preparation and execution of integration tests.",
+			"mainResponsabilities":"Guide the software quality and performance, Develop or modify the necessary application components and data structures as defined by the architecture shared with the system architect in accordance with the operability criteria, Create the development modules that interface with the DMS products using the appropriate development tool kits, all graphic objects (images, icons, buttons, effects, etc.), page layouts (texts, background, borders, etc.), animations, etc.• Produce or modify components for the automation of unit testing, in accordance with the methodologies intended to be used, Support the Analysts with functional analysis work on an occasional basis, Collaborate with the Analysts in designing the system and performance tests and support the preparation and execution of integration tests• Test the individual programs and participate in the testing of the respective procedures, Prepare or modify the “storyboard” for the presentation and browsing procedures, Manage anomalies found during functional testing/user testing/operational support, and direct the resolution of the problem by the development or maintenance group, Store and update all information (sources, tests, documents) relating to the life-cycle of the applications within Enel systems, Draw up and update the program documentation, Collaborate, if required, in defining and documenting the system architectures, Deals with any aspect related to the deploy/release management in production.",
+			"specificSkills":"Knowledge of the required environments, languages and development and programming tools. In-depth knowledge of the required programming language and the respective analysis, design, programming and testing techniques, General knowledge of the required architectures, DBMS and operational environments. , Knowledge of the techniques for the execution and implementation of unit and system tests., Knowledge of the functional aspect on the pertaining module., Knowledge of the Agile methodology. , Problem determination skills, Ability to optimize the code to minimize resource usage , Ability to write technical documentation and user manuals When the resource is involved in activity carried out in Agile, the following skills are requested: Do all necessary work to achieve the objectives of the sprint and the project release in accordance with the Vision and Done Set: Collaborate with the Product Owner to keep the Backlog up to date and with the right degree of detail, Estimate “User Stories” and other activities in the Backlog, Carry out analysis and design (including UX and architecture), Develop or customize the products within the scope, Develop tests within the scope (Unit, Integration, Performance, Function and Non-Functional)., Design testing cards, Develop test automation, Carry out automated and manual tests to ensure product quality, Document the solution’s life cycle in accordance with Enel standards"
+		},
+		"Design & Build" : {
+			"ita":"Design-build è un sistema di consegna del progetto utilizzato nel settore delle costruzioni. È un metodo per fornire un progetto in cui i servizi di progettazione e costruzione sono contratti da una singola entità nota come progettista o costruttore",
+			"Traditional Project Delivery":"The Owner must manage two separate contracts which all-too-often creates an adversarial relationship between the designer and the contractor. If something goes wrong or an unforeseen circumstance requires changes, the designer and contractor blame one another for the cost overruns or schedule changes, often leading to litigation and delays which add to the project cost.",
+			"Design-Build Project Delivery":"The Owner manages only one contract with a single point of responsibility. The designer and contractor work together from the beginning, as a team, providing unified project recommendations to fit the Owner's schedule and budget. Any changes are addressed by the entire team, leading to collaborative problem-solving and innovation, not excuses or blame-shifting. While single-source contracting is the fundamental difference between design-build and the old ways, equally important is the culture of collaboration inherent in design-build."
+		},
+		"Build Management":{
+			"what":"With the move to continuous integration and continuous delivery, build management has become an important part of the software development and testing lifecycle. Build management is the process of collecting all of the assets to be included in a software release, performing all the automated tasks to compile, build and test the system and then deploy onto the development and testing environments in preparation for staging."
+		},
+		"SpringBoot": {
+			"ita":"Spring Boot è il framework per creare applicazioni basate sul framework Java Spring che sono subito pronte per ambienti di produzione e sono maggiormente utilizzate per creare microservizi",
+			"eng":"Spring Boot is an open source Java-based framework used to create a micro Service. It helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss"
+		},
+		"J2EE":{
+			"ita":"La piattaforma Java™ 2, Enterprise Edition (J2EE) fornisce uno standard per lo sviluppo di applicazioni enterprise a più livelli",
+			"eng":"J2EE stands for Java 2 Platform, Enterprise Edition. J2EE is the standard platform for developing applications in the enterprise and is designed for enterprise applications that run on servers. J2EE provides APIs that let developers create workflows and make use of resources such as databases or web services. J2EE consists of a set of APIs. Developers can use these APIs to build applications for business computing."
+		},
+		"Angular":{
+			"ita":"Angular 2+ (o semplicemente Angular) è un framework open source per lo sviluppo di applicazioni web con licenza MIT, evoluzione di AngularJS. Sviluppato principalmente da Google, la sua prima release è avvenuta il 14 settembre 2016. Angular è un framework per la realizzazione di interfacce utente, moderno, veloce, robusto e flessibile",
+			"eng":"Angular is a platform for building mobile and desktop web applications. Angular is an open-source, JavaScript framework written in TypeScript. Google maintains it, and its primary purpose is to develop single-page applications"
+		},
+		"Atlassian":{
+			"ita":"Atlassian Corporation Plc è una compagnia di software enterprise che sviluppa prodotti per sviluppatori di software, project management e per la gestione dei contenuti. È nota soprattutto per la sua applicazione di tracciamento delle segnalazioni, Jira, e per l'applicazione wiki e collaborativa Confluence",
+			"eng":"Atlassian Corporation is an Australian software development company for the IT industry. It is best known for its JIRA and Confluence bug tracking system. The company is headquartered in Seattle, USA. In total, the company has nine offices in six countries and serves more than 100,000 customers"
+		},
+		"MySQL":{
+			"ita":"MySQL o Oracle MySQL è un relational database management system (RDBMS) composto da un client a riga di comando e un server. Entrambi sono multipiattaforma[2] e sono disponibi ufficialmente su praticamente tutte le distribuzioni conosciute, come Debian, Ubuntu e CentOS[3], sebbene lo abbiano sostanzialmente sostituito con MariaDB a partire dal 2012.",
+			"eng":"MySQL is a database system used by many websites on the Internet. It is based on SQL. Many ways of doing things in SQL are similar in MySQL. The data is structured in tables in MySQL. And to extract data from the tables queries are used.For example: SELECT id_number FROM main_database WHERE name='John',This query will return the 'id_number' of the person named 'John' from the table named 'main_database'."
+		},
+		"Oracle SQL Developer":{
+			"ita":"Oracle SQL Developer è un ambiente di sviluppo integrato per lavorare con SQL nei database Oracle. Oracle Corporation fornisce questo prodotto gratuitamente; utilizza il Java Development Kit",
+			"eng":"Oracle SQL Developer is an Integrated development environment (IDE) for working with SQL in Oracle databases. Oracle Corporation provides this product free; it uses the Java Development Kit."
+		},
+		"Oracle Database":{
+			"ita":"Oracle Database è uno tra i più famosi software di database management system sviluppato da Oracle Corporation. Scritto in linguaggio C, che fa parte dei cosiddetti RDBMS ovvero di sistemi di database basati sul modello relazionale affermatosi come standard di riferimento dei database dell'ultimo decennio",
+			"eng":"Oracle Database (commonly referred to as Oracle DBMS, Oracle Autonomous Database, or simply as Oracle) is a multi-model[4] database management system produced and marketed by Oracle Corporation. It is a database commonly used for running online transaction processing (OLTP), data warehousing (DW) and mixed (OLTP & DW) database workloads"
+		}	,
+		"MySql vs Oracle DB":{
+			"ita":"",
+			"eng":"MySQL and Oracle SQL are both RDBMSs (relational database management systems) owned by Oracle Corporation. MySQL is built to be primarily free and open-source, while Oracle is primarily built to be commercial and paid. MySQL is also more customizable than Oracle which is because Oracle is a finished product"
+		},
+		"TypeScript":{
+			"ita":"TypeScript è un linguaggio di programmazione open source sviluppato da Microsoft. Si tratta di un'estensione di JavaScript che basa le sue caratteristiche su ECMAScript 6",
+			"eng":"TypeScript is JavaScript with syntax for types. TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale"
+		},
+		"HTML":{
+			"ita":"",
+			"eng":""
+		},
+		"CSS":{
+			"ita":"",
+			"eng":""
+		},
+		"Blockchain":{
+			"ita":"",
+			"eng":""
+		},
+		"Python":{
+			"ita":"",
+			"eng":""
+		},
+		"JavaScript":{
+			"ita":"",
+			"eng":""
+		},
+		"bash shell scripting":{
+			"ita":"",
+			"eng":""
+		},
+		"Full Stack":{
+			"ita":"Il full stack developer è un programmatore che conosce tutti gli aspetti della programmazione, sia frontend che backend",
+			"eng":"Full stack technology refers to the entire depth of a computer system application, and full stack developers straddle two separate web development domains: the front end and the back end. The front end includes everything that a client, or site viewer, can see and interact with"
+		},
+		"Docker":{
+			"ita":"Docker è un popolare software libero progettato per eseguire processi informatici in ambienti isolabili, minimali e facilmente distribuibili chiamati container Linux, con l'obiettivo di semplificare i processi di deployment di applicazioni software",
+			"eng":"Docker is an open source containerization platform. It enables developers to package applications into containers—standardized executable components combining application source code with the operating system (OS) libraries and dependencies required to run that code in any environment"
+		},
+		"":{
+			"ita":"",
+			"eng":""
+		},
+		"":{
+			"ita":"",
+			"eng":""
+		},
+		"":{
+			"ita":"",
+			"eng":""
+		},
+		"":{
+			"ita":"",
+			"eng":""
+		}
+			
+	},
+    "certifications": {
+        "certifications": [
+            {
+                "title": "Certified Kubernetes Application Developer (CKAD)",
+                "logo": "/images/Certifications/CKAD.jpg",
+                "description": [
+                    "Earners of this certification have demonstrated the ability to design, build, and deploy cloud-native applications for Kubernetes."
+                ],
+                "ongoing": true,
+                "verificationLink": "",
+                "logoHeight": "auto",
+                "achieve_date": "",
+                "expire_date": ""
+            },
+			{
+                "title": "AWS Certified Solutions Architect Associate",
+                "logo": "/images/Certifications/AWS-SolArchitect-Associate-2022.png",
+                "description": [
+                    "Earners of this certification have a comprehensive understanding of AWS services and technologies. They demonstrated the ability to build secure and robust solutions using architectural design principles based on customer requirements. Badge owners are able to strategically design well-architected distributed systems that are scalable, resilient, efficient, and fault-tolerant."
+                ],
+                "ongoing": false,
+				"verificationLink": "https://www.credly.com/badges/8a846aca-20ae-4823-b8bb-b66b378a6e61/public_url",
+                "logoHeight": "auto",
+                "achieve_date": "2022-09-30",
+                "expire_date": "2025-09-30"
+            },
+            {
+                "title": "DevOps Foundation",
+                "logo": "/images/Certifications/DevOpsFoundation_badge.jpg",
+                "description": [
+                    "The DevOps Foundation course provides a baseline understanding of key DevOps terminology and the fundamental principles and frameworks that underpin it."
+                ],
+                "ongoing": false,
+                "logoHeight": "auto",
+                "achieve_date": "2021-11-30"
+            },
+            {
+                "title": "Trained Accenture Master Technology Architect (Fundamentals)",
+                "logo": "/images/Certifications/MTA-Cube-423x420-Transparent.png",
+                "description": [
+                    "The MTA certification program specifies the skills and experiences expected of Technology Architects. It is designed for Accenture technology professionals in order to: evaluate and progress with the technology skills, enable technology professionals to perform in the NEW, recognize technology architecture skills, offer a well-defined career progression for aspiring architects."
+                ],
+                "ongoing": false,
+                "logoHeight": "auto",
+                "achieve_date": "2021-07-21"
+            },
+            {
+                "title": "AWS Certified Cloud Practitioner",
+                "logo": "/images/Certifications/AWS-CloudPractitioner-2022.png",
+                "description": [
+                    "Earners of this certification have a fundamental understanding of IT services and their uses in the AWS Cloud. They demonstrated cloud fluency and foundational AWS knowledge. Badge owners are able to identify essential AWS services necessary to set up AWS-focused projects."
+                ],
+                "verificationLink": "https://www.credly.com/badges/eafe33bb-92c2-4414-96c1-554e1b304646/public_url",
+                "ongoing": false,
+                "logoHeight": "auto",
+                "achieve_date": "2021-04-28",
+                "expire_date": "2025-09-30"
+            },
+            {
+                "title": "Professional Scrum Master™ Certification",
+                "logo": "/images/Certifications/Professional-Scrum-Master-1-Certification.png",
+                "description": [
+                    "The Professional Scrum Master (PSM I) is recognized by the industry as a certification that demonstrates a fundamental level of Scrum mastery."
+                ],
+                "ongoing": true,
+                "verificationLink": "",
+                "logoHeight": "auto",
+                "achieve_date": "",
+                "expire_date": ""
+            },
+            {
+                "title": "Microsoft Azure Fundamentals [AZ900]",
+                "logo": "/images/Certifications/azure-fundamentals-600x600.png",
+                "description": [
+                    "Earners of this certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure."
+                ],
+                "ongoing": false,
+                "verificationLink": "https://www.credly.com/badges/f83b1a09-8bde-4c87-8aaf-4932815e5b76/public_url",
+                "logoHeight": "auto",
+                "achieve_date": "2020-11-09",
+                "expire_date": ""
+            }
+        ]
+    },
+	"Principal Skills":{
+		"":"Competenze funzionali:, Buona conoscenza dei processi di bidding,Conoscenza del mercato elettrico Italiano,Conoscenza del processo di settlement, Competenze tecniche:,Full Stack,CD/CI Management,Docker (container env),Technology Architect ,Configuration & Release Management   ,Suite Atlassian (Jira, Confluence, Bamboo),MySQL   ,Oracle SQL Developer   ,Oracle Database   ,J2EE,Spring MVC (Model View Controller),Spring Boot   ,Restful API,JavaScript ,TypeScript Programming Language   ,Angular,React,HTML (Hypertext Markup Language)     ,Cascading Style Sheets (CSS),Python,Blockchain, Competenze trasversali generali:,capacità di lavorare in team ed in autonomia; ,capacità di comunicazione e interazione con untenti finali;,capaictà di organizzazione e gestione del tempo nel rispetto delle tempistiche progettuali e con orientamento all'obiettivo,conoscenza delle motodologie di delivery sia in modalità Waterfall che Agile Scrum,conoscenza delle architetture di base,rtificazioni:,Certificazione Agile Scrum Developer (15.07.2019),Certificazione AWS Cloud (28.04.2021),Certificazione DevOps (30.11.2021)"
+	}
+}
